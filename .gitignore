@@ -12,6 +12,8 @@
 /screenshots/
 /mods/
 /world/
+/asm/
+/mputils/
 
 # Client Configs
 config/InvTweaks.cfg
